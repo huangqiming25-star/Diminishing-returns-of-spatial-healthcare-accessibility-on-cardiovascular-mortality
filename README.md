@@ -1,2 +1,2 @@
-# Diminishing-returns-of-spatial-healthcare-accessibility-on-cardiovascular-mortality
-Diminishing returns of spatial healthcare accessibility on cardiovascular mortality
+# Spatial healthcare accessibility confers unequal cardiovascular benefits worldwide
+Spatial healthcare accessibility confers unequal cardiovascular benefits worldwide
